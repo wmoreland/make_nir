@@ -46,10 +46,6 @@ usage: make_nir.py [-h] [-t] [-n] workspace
 
 workspace should be a directory which contains a one or more directories of Sentinel 2 data in .SAFE format.
 
-|             |positional argument |Description                                                              |
-|-------------|--------------------|-------------------------------------------------------------------------|
-|             |workspace           |Path to a directory containing one or more Sentinel 2 image sets         |
-
 |short option |long option    |Description                                                                   |
 |-------------|---------------|------------------------------------------------------------------------------|
 |-h           |--help         |show help message and exit                                                    |
